@@ -4,6 +4,8 @@ Android_WeatherAPP
 SJSU - In class project
 Team: Tse-Jen Lu, Kang-Hua Wu
 
+Demo: https://youtu.be/lXmresjgHpc
+
 City View
   1.	Content
     Shows the following info about a city,  its current weather status,  and forecast
